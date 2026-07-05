@@ -116,8 +116,21 @@ streamlit run app.py
 
 1. Launch the Streamlit application.
 2. Adjust the Study Hours, Sleep Hours, and Phone Usage sliders.
-3. Click **Analyze My Focus**.
+3. Click Analyze My Focus.
 4. View your predicted focus status.
 
 ---
+
+# Screenshots
+
+<img width="1047" height="757" alt="image" src="https://github.com/user-attachments/assets/153ecb43-1fcc-4316-a698-b6e31bbe2faa" />
+
+<img width="935" height="398" alt="image" src="https://github.com/user-attachments/assets/d8d323b7-c161-41d8-9f5b-27086c7166f2" />
+
+<img width="952" height="742" alt="image" src="https://github.com/user-attachments/assets/d49934c9-8ffc-4c28-b24c-b9653d780166" />
+
+<img width="882" height="401" alt="image" src="https://github.com/user-attachments/assets/e2e6f245-47d7-4f4d-83fc-d32ebe09c20b" />
+
+---
+
 
