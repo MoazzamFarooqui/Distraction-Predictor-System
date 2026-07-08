@@ -137,7 +137,7 @@ streamlit run app.py
 
 ### Input Parameters
 
-<img width="952" height="742" alt="Focus Prediction" src="https://github.com/user-attachments/assets/d49934c9-8ffc-4c28-b24c-b9653d780166" />
+<img width="898" height="347" alt="image" src="https://github.com/user-attachments/assets/882105b2-7a95-4f3c-b63c-773c9939266d" />
 
 ---
 
