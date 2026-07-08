@@ -67,7 +67,6 @@ These features are used to train the classification model and generate focus pre
 * Scikit-learn
 * Streamlit
 * Joblib
-* Jupyter Notebook
 
 ---
 
