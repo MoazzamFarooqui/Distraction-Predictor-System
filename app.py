@@ -3,10 +3,8 @@ import joblib
 import pandas as pd
 import numpy as np
 
-# Page config
 st.set_page_config(page_title="Distraction Predictor", page_icon="🧘", layout="centered")
 
-# Load model
 model = joblib.load("model.pkl")
 
 # Styling
